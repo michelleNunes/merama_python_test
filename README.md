@@ -1,4 +1,4 @@
-# merama_python_test
+# Merama Python Test
 
 ## Introduction
 You will be required to create a project from scratch to try and get information from the [MercadoLibre API](https://developers.mercadolibre.com.mx/en_us/). For that you will have to fork this project and work in a personal branch.
